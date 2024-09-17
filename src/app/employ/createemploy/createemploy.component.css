@@ -1,0 +1,72 @@
+.client-logo {
+    display: flex;
+    flex-direction: column;
+    font-weight: 500;
+    font-size: 20px;
+    width: 280px;
+    height: 93px;
+    padding: 30px 92px 20px 40px;
+    border-radius: 4px 0px 0px 0px;
+    border: 0.5px 0px 0px 0px;
+
+}
+
+.logo-upload {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 250px;
+    border: 0.5px solid #50596C;
+    padding: 10px;
+}
+
+.file {
+    display: none;
+}
+
+.textupload {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    color: #666666;
+}
+
+.add {
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.approval {
+    width: 30px;
+    height: 30px;
+    top: 40px;
+    left: 236px;
+    gap: 0px;
+    opacity: 0px;
+    color: #3A3A3A;
+}
+
+.approval-text {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    color: #292929;
+}
+
+.poptopic {
+    height: 20px;
+    top: 100px;
+    left: 162px;
+    gap: 0px;
+    opacity: 0px;
+    color: #292929;
+}

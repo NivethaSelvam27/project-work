@@ -1,0 +1,53 @@
+.bg-card {
+    background-color: #D9D9D957 !important;
+}
+
+.bg-danger {
+    background-color: #EF626214 !important;
+}
+
+.bg-success {
+    background-color: #ECF9F2 !important;
+}
+
+.bg-info {
+    background-color: #1755E714 !important;
+}
+
+.client {
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.border-height {
+    height: 100px;
+}
+
+.card {
+    width: 373px;
+    height: 100px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.number {
+    font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 29.05px;
+text-align: left;
+
+}
+
+.employ-rep {
+    font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+line-height: 21.78px;
+text-align: left;
+
+}
+
+.btn-primary{
+    background-color: #004CFF;
+}

@@ -1,0 +1,231 @@
+main {
+    width: 70vw;
+}
+
+select {
+    border: 1px solid #ccc;
+    background-color: white;
+    color: black;
+}
+
+.arrow {
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    color: black;
+}
+
+.heading {
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 33.89px;
+    text-align: left;
+
+}
+
+.table-heading {
+    padding-left: 5px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16.94px;
+    text-align: left;
+}
+
+.date-details {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16.94px;
+    text-align: left;
+}
+
+.option-values {
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 12.1px;
+    text-align: left;
+
+}
+
+.text-option {
+    font-size: 15px;
+    color: #878686;
+    padding: 5px;
+}
+
+.text-option-shift {
+    color: #878686;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 12.1px;
+    width: 72px;
+    height: 23px;
+    top: 37px;
+    left: 254px;
+    border-radius: 2px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.select-project {
+    border: none;
+    background-color: #ECECEC;
+}
+
+.add-project {
+    margin-left: 0%;
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.52px;
+    text-align: left;
+
+}
+
+table {
+    width: 100%;
+    border-color: #D9D9D9;
+    background: #f5f5f5;
+    font-size: 12px;
+    line-height: 24px;
+    margin: 10px auto;
+    text-align: left;
+    width: 100%;
+}
+
+.project-list {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    text-align: left;
+    color: #878686;
+    ;
+}
+
+th {
+    background-color: #EAECF0;
+}
+
+tr {
+    margin-top: 15px;
+    padding: 10px 15px;
+
+}
+
+td {
+    margin-top: 15px;
+    border-top: 1px solid #fff;
+    background-color: #ffffff;
+    border-bottom: 1px solid #D9D9D9;
+    padding: 10px 15px;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+
+}
+
+input {
+    width: 59.69px;
+    height: 30px;
+    top: 15px;
+    left: 493px;
+    border-radius: 2px;
+    border: 1px solid #878686;
+}
+
+/* height: 30px;
+top: 15px;
+left: 493px;
+border-radius: 2px;
+border: 1px solid #878686;
+} */
+
+.bg-secondary {
+    background-color: #87868699 !important;
+}
+
+.box-one {
+    border-left: 4px solid #FFB406 !important;
+}
+
+.box-two {
+    border-left: 4px solid #00B71E !important;
+}
+
+.box-three {
+    border-left: 4px solid #f25d3f !important;
+}
+.approval-rate {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    color: #000000;
+
+    text-align: left;
+
+}
+
+.approval-details {
+    color: #7E7E7E;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16.8px;
+    text-align: left;
+
+}
+
+.submit-date-details {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: left;
+    color: #707070;
+}
+
+.edit-icon {
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+}
+.modal {
+    margin-left: 35px;
+width: 95vw;
+height: 80vh;
+}
+
+.icon {
+    width: 18px;
+    height: 18px;
+
+}
+
+.edit {
+    width: 1210px;
+    height: 529px;
+    top: 248px;
+    left: 115px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.submit-button {
+    width: Hug (94px)px;
+height: Hug (47px)px;
+top: 532px;
+left: 1321px;
+padding: 14px 20px 14px 20px;
+gap: 10px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+
+}
+/* .edit-table-head {
+padding-top: 25px;
+} */
+.edit-ts {
+    padding-left: 30px;
+}
